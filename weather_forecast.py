@@ -1,6 +1,5 @@
 
-
-!pip install requests
+// We have to install the 'requests' library 
 
 import requests
 
